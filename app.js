@@ -1,4 +1,4 @@
-let valorJogado = 4;
+let valorJogado = 10;
 let listarNumerosSorteados = [];
 let numeroSecreto = gerarNumeroSecreto(valorJogado);
 console.log(numeroSecreto);
